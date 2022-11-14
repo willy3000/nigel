@@ -1,0 +1,71 @@
+{
+  "workers": [
+    {
+      "email": "willywario0@gmail.com",
+      "name": "Nigel Qer",
+      "phone": "+254114653949",
+      "role": "Marketing",
+      "id": "c4b6b29e-28a7-4683-aa2b-f441ffaf771f"
+    },
+    {
+      "email": "marceroyzmutai7@gmail.com",
+      "name": "Mark Mutai",
+      "phone": "0791632555",
+      "role": "Accounting",
+      "id": "e0d9ac66-ad6d-4d7c-acc4-a0355c564c45"
+    },
+    {
+      "email": "willywario850@gmail.com",
+      "name": "Jillo Wario",
+      "phone": "+254114653949",
+      "role": "Software Developer",
+      "id": "ae23c9f1-4d13-4fed-a88b-8bcf3cee73c9"
+    },
+    {
+      "email": "nigelmuaka@gmail.com",
+      "name": "wambuzi wario",
+      "phone": "0743921926",
+      "role": "Marketing",
+      "id": "8c3f9206-cadd-40f0-ae71-4855c950d8dd"
+    },
+    {
+      "email": "g.mange@kcau.ac.ke",
+      "name": "gladys mange",
+      "phone": "0725422033",
+      "role": "Software Developer",
+      "id": "8cd38fff-d7ac-48e0-819d-437342f31532"
+    }
+  ],
+  "workersOnSite": [],
+  "waitingApproval": [],
+  "approvedPayments": [
+    {
+      "email": "willywario0@gmail.com",
+      "name": "Nigel Qer",
+      "phone": "+254114653949",
+      "role": "Marketing",
+      "id": "c4b6b29e-28a7-4683-aa2b-f441ffaf771f",
+      "clockInTime": "2022-11-14T18:01:42.948Z",
+      "paymentId": "358e6a50-b3aa-4674-a2c0-b47929b7eda8",
+      "clockOutTime": "2022-11-14T18:02:07.891Z",
+      "timeWorked": 0.006928611111111111,
+      "amountPayable": 1.1085777777777777
+    },
+    {
+      "email": "g.mange@kcau.ac.ke",
+      "name": "gladys mange",
+      "phone": "0725422033",
+      "role": "Software Developer",
+      "id": "8cd38fff-d7ac-48e0-819d-437342f31532",
+      "clockInTime": "2022-11-14T18:04:00.220Z",
+      "paymentId": "753b96c2-d4b5-4faa-8397-bcdcd3e155fa",
+      "clockOutTime": "2022-11-14T18:04:05.777Z",
+      "timeWorked": 0.001543611111111111,
+      "amountPayable": 0.24697777777777777
+    }
+  ],
+  "admin": {
+    "email": "admin@gmail.com",
+    "password": "admin"
+  }
+}
